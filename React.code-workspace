@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../React"
+		},
+		{
+			"path": "../../../helloworld"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "helloworld"
+	}
+}
